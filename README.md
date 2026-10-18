@@ -62,7 +62,3 @@ The testbench checks instruction execution, register values, program counter beh
 - Three-stage pipelining
 - Verilog testbench development
 - Functional verification
-
-## 8. Author
-
-Designed as an academic computer architecture project.
